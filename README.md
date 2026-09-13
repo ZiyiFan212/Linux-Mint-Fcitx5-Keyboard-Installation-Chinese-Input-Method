@@ -1,9 +1,9 @@
 # Linux Mint Fcitx5 Chinese Input Method Installation Guide | Linux Mint Fcitx5 中文输入法安装指南
 
-A solution for configuring the Fcitx5 Chinese input method on Linux Mint and resolving GUI freezing caused by conflicting or misconfigured Fcitx/IBus input-method environments.
+A solution for configuring the Fcitx5 Chinese input method on Linux Mint and resolving GUI freezing caused by conflicting or misconfigured Fcitx/IBus input-method environments. This is a note that recorded how I resolve this issue, then analyzed to provide a clear solution.
 This guide is based on an issue I encountered on Linux Mint. In my case, removing the existing IBus and Fcitx configuration and switching completely to Fcitx5 resolved the GUI freezing issue.
 
-本教程介绍如何在 Linux Mint 上安装并配置 Fcitx5 中文输入法，以及如何解决由于 Fcitx 和 IBus 输入法同时存在而可能导致的系统图形界面卡死的问题。
+本教程介绍如何在 Linux Mint 上安装并配置 Fcitx5 中文输入法，以及如何解决由于 Fcitx 和 IBus 输入法同时存在而可能导致的系统图形界面卡死的问题。在这里作为一个随记，记录并整合解决问题的全过程。
 这是基于我本人第一次使用 Mint 上遇到的问题。在我的环境中，清除已有的 IBus 和 Fcitx 配置，并完全切换至 Fcitx5 后，问题解决。
 
 ---
